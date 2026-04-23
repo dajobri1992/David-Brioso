@@ -1,4 +1,4 @@
-<img width="1688" height="441" src="[https://github.com/user-attachments/assets/1657dd2e-85e1-41ec-b72d-6b56160ad214](https://github.com/dajobri1992/dajobri1992/blob/main/man-using-laptop-night-top-view-web-banner-with-copy-space.jpg?raw=true)"/>
+<img width="1688" height="441" src="https://thumbs.dreamstime.com/b/cogs-gears-industrial-global-business-background-integraci%C3%B3n-en-segundo-plano-ilustraci%C3%B3n-de-portada-banner-tecnolog%C3%ADa-binaria-180798145.jpg" />
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>¡Hola! soy David Brioso 😎 Bienvenidos🏠 </h2>
 
