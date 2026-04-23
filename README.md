@@ -51,7 +51,7 @@ Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y tru
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-%23FF61F6.svg?style=for-the-badge&logo=adobe%20xd&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-### 🔗 &nbsp;Contact Me
+### 🔗 &nbsp;Contactame
 
 <div align="center">
 <a href="mailto:abd.alrrahman.alhamod@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -60,14 +60,11 @@ Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y tru
 </a>
 </div>
 
-<h5 align="center">سبحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لا إِلهَ إِلأَ انْتَ أَسْتَغْفِرُكَ وَأَتْوبُ إِلَيْكَ</h5>
-
----
 
 <h6 align="center">👇🏻 Here is a list of the Open Source projects I work on: 👇🏻</h6>
 
 ------
 
-Credit: [Abdalrahman-Alhamod](https://github.com/Abdalrahman-Alhamod)
+Credit: [Ing.DavidBrioso](https://github.com/Ing.DavidBrioso)
 
-Last Edited on: 26/02/2025
+Last Edited on: 24/04/2026
