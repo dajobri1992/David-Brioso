@@ -22,9 +22,9 @@ Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y tru
 <img alt="Programación nocturna" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp; Pila tecnológica.
 
-#### 🔧 Languages
+#### 🔧 Lenguajes de programación.
 
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
