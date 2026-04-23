@@ -2,22 +2,22 @@
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Ing. David Brioso</h2>
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;Sobre mí
 
-I enjoy exploring new technologies and developing software solutions and quick tricks.
+Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos.
 
-🎓 I currently work with Computer Science and Software Modules at the National Institute of Chinameca.
+🎓 Actualmente trabajo en Módulos de Ciencias de la Computación y Software en el Instituto Nacional de Chinameca.
 
-🌱 I am deepening my knowledge in Artificial Intelligence, Systems Design, and Cloud Architecture.
+🌱 Estoy profundizando mis conocimientos en Inteligencia Artificial, Diseño de Sistemas y Arquitectura en la Nube.
 
-✍️ In my free time, I install video surveillance cameras and visit "Pueblos Mágicos" (Magical Towns).
+✍️ En mi tiempo libre, instalo cámaras de videovigilancia y visito "Pueblos Mágicos".
 
-💬 Feel free to contact me for IT consulting or simply for an interesting conversation about technology.
+💬 No dudes en contactarme para consultoría de TI o simplemente para una conversación interesante sobre tecnología.
 
-✉️ You can write to me at david.brioso.granados@clases.edu.sv. I will try to respond as soon as possible.
+✉️ Puedes escribirme a david.brioso.granados@clases.edu.sv. Intentaré responderte lo antes posible.
 
-📄 Check out my website at www.BriosoTechnology.com to learn more about me. I welcome comments and suggestions!
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+📄 Visita mi sitio web www.BriosoTechnology.com para saber más sobre mí. ¡Agradezco tus comentarios y sugerencias!
+<img alt="Programación nocturna" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ## 🛠 &nbsp;Tech Stack
 
