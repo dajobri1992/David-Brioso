@@ -71,3 +71,6 @@ Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y tru
 Credito: [Ing.David_Brioso](https://github.com/Ing.DavidBrioso)
 
 Last Edited on: 24/04/2026
+
+
+<img width="1688" height="441" src="[https://thumbs.dreamstime.com/b/cogs-gears-industrial-global-business-background-integraci%C3%B3n-en-segundo-plano-ilustraci%C3%B3n-de-portada-banner-tecnolog%C3%ADa-binaria-180798145.jpg](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)" />
