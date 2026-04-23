@@ -1,8 +1,6 @@
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+![Aditya Vikram Singh Banner]([https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg](https://www.freepik.com/free-photo/laptop-with-glowing-screen-table-dark-top-view-copy-space_160645749.htm#fromView=keyword&page=1&position=6&uuid=7bad6be9-9194-4cff-90cb-79a745dcba98&query=Full+stack+developer+github+profile+banner))
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Ing. David Brioso</h2>
-
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
