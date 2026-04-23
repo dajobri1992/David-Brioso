@@ -1,6 +1,6 @@
 <img width="1688" height="441" alt="Gemini_Generated_Image_ubc2qkubc2qkubc2" src="https://github.com/user-attachments/assets/1657dd2e-85e1-41ec-b72d-6b56160ad214" />
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>¡Hola! Soy Ingeniero en Sistemas David Brioso.</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>¡Hola! Soy el Ingeniero en Sistemas: David Brioso.</h2>
 
 ### 👨🏻‍💻 &nbsp;Sobre mí
 
