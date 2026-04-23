@@ -2,6 +2,8 @@
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>¡Hola! soy David Brioso 😎 Bienvenidos🏠 </h2>
 
+<a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+developer;I'm+a+competitive+programmer;I'm+a+Flask+developer" /></a>
+
 ### 👨🏻‍💻 &nbsp;Sobre mí
 
 Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y trucos rápidos.
