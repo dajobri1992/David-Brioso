@@ -16,8 +16,11 @@ Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y tru
 
 ✉️ Puedes escribirme a david.brioso.granados@clases.edu.sv. Intentaré responderte lo antes posible.
 
-📄 Visita mi sitio web www.BriosoTechnology.com para saber más sobre mí. ¡Agradezco tus comentarios y sugerencias!
+📄 Visita mi sitio web www.BriosoTechnology.com para saber más sobre mí. 
+¡Agradezco tus comentarios y sugerencias!
+
 <img alt="Programación nocturna" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 
 ## 🛠 &nbsp;Tech Stack
 
