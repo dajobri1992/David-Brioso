@@ -1,6 +1,6 @@
 <img width="1688" height="441" src="https://thumbs.dreamstime.com/b/cogs-gears-industrial-global-business-background-integraci%C3%B3n-en-segundo-plano-ilustraci%C3%B3n-de-portada-banner-tecnolog%C3%ADa-binaria-180798145.jpg" />
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>¡Hola! soy David Brioso 😎 Bienvenidos🏠 </h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>¡Hola! soy David Brioso 😁 Bienvenidos🏠 </h2>
 
 <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=2773F5&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+developer;I'm+a+competitive+programmer;I'm+a+Flask+developer" /></a>
 
